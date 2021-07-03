@@ -44,7 +44,192 @@ def pobieranieMorele():
              'https://www.morele.net/plyta-glowna-asus-rog-strix-b550-e-gaming-90mb1470-m0eay0-6858395/',
              'https://www.morele.net/plyta-glowna-asus-rog-strix-b550-f-gaming-wi-fi-6787910/',
              'https://www.morele.net/dysk-ssd-patriot-p210-1-tb-2-5-sata-iii-p210s1tb25-5942962/',
-             'https://www.morele.net/pamiec-patriot-viper-4-blackout-ddr4-16-gb-3600mhz-cl18-pvb416g360c8k-6957974/']
+             'https://www.morele.net/pamiec-patriot-viper-4-blackout-ddr4-16-gb-3600mhz-cl18-pvb416g360c8k-6957974/',
+             '',
+             'https://www.morele.net/karta-graficzna-asus-tuf-radeon-rx-6700-xt-gaming-oc-12gb-gddr6-tuf-rx6700xt-o12g-gaming-5946539/',
+             'https://www.morele.net/karta-graficzna-power-color-radeon-rx-6700-xt-12gb-gddr6-axrx-6700xt-12gbd6-m3dh-5946848/',
+             'https://www.morele.net/karta-graficzna-power-color-radeon-rx-6700-xt-red-devil-12gb-gddr6-axrx-6700xt-12gbd6-3dhe-oc-5946847/',
+             'https://www.morele.net/karta-graficzna-xfx-radeon-rx-6700-xt-speedtester-qick319-ultra-12gb-gddr6-rx-67xtypudp-8148720/',
+             'https://www.morele.net/karta-graficzna-msi-radeon-rx-6700-xt-mech-2x-oc-12gb-gddr6-rx-6700-xt-mech-2x-12g-oc-5946757/',
+             'https://www.morele.net/karta-graficzna-xfx-radeon-rx-6700-xt-speedtester-merc319-black-12gb-gddr6-rx-67xtytbdp-8148721/',
+             'https://www.morele.net/karta-graficzna-msi-radeon-rx-6700-xt-gaming-x-12gb-gddr6-rx-6700-xt-gaming-x-12g-5946756/',
+             'https://www.morele.net/karta-graficzna-sapphire-radeon-rx-6700-xt-pulse-gaming-12gb-gddr6-11306-02-20g-5946772/',
+             'https://www.morele.net/karta-graficzna-sapphire-radeon-rx-6700-xt-nitro-gaming-oc-11306-01-20g-5946773/',
+             'https://www.morele.net/karta-graficzna-asus-radeon-rx-6700-xt-12gb-gddr6-rx6700xt-12g-5946805/',
+             'https://www.morele.net/karta-graficzna-gigabyte-radeon-rx-6700-xt-gaming-oc-12gb-gddr6-gv-r67xtgaming-oc-12gd-5946529/',
+             'https://www.morele.net/karta-graficzna-asus-rog-strix-radeon-rx-6700-xt-gaming-oc-12gb-gddr6-rog-strix-rx6700xt-o12g-gaming-5946540/',
+             'https://www.morele.net/karta-graficzna-asrock-radeon-rx-6700-xt-12gb-gddr6-90-ga2wzz-00uanf-5946712/',
+             'https://www.morele.net/karta-graficzna-msi-radeon-rx-6700-xt-12gb-gddr6-rx-6700-xt-12g-5946755/',
+             '',
+             '',
+             '',
+             '',
+             '',
+             'https://www.morele.net/karta-graficzna-gigabyte-gigabyte-radeon-rx-6800-gaming-oc-16g-gv-r68gaming-oc-16gd-7497486/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-radeon-rx-6800-master-16gb-gddr6-gv-r68aorus-m-16gd-7497485/',
+             'https://www.morele.net/karta-graficzna-asrock-radeon-rx-6800-xt-phantom-gaming-d-oc-16gb-gddr6-rx6800xt-pgd-16go-7497491/',
+             'https://www.morele.net/karta-graficzna-msi-rx-6800-xt-gaming-x-trio-16gb-gddr6-rx-6800-xt-gaming-x-trio-5945763/',
+             'https://www.morele.net/karta-graficzna-power-color-radeon-6800xt-red-devil-16gb-gddr6-axrx-6800xt-16gbd6-3dhe-oc-5946036/',
+             'https://www.morele.net/karta-graficzna-sapphire-radeon-rx-6800-xt-pulse-16gb-gddr6-11304-03-20g-5947823/',
+             'https://www.morele.net/karta-graficzna-asus-tuf-radeon-rx-6800-gaming-oc-16gb-gddr6-tuf-rx6800-o16g-gaming-7497493/',
+             '',
+             '',
+             '',
+             '',
+             '',
+             'https://www.morele.net/karta-graficzna-msi-radeon-rx-6900-xt-gaming-x-trio-16gb-gddr6-rx-6900-xt-gaming-x-trio-5946901/',
+             'https://www.morele.net/karta-graficzna-sapphire-radeon-rx-6900-xt-nitro-se-oc-16gb-gddr6-11308-03-20g-8260735/',
+             'https://www.morele.net/karta-graficzna-asrock-radeon-rx-6900-xt-oc-formula-16gb-gddr6-rx6900xt-ocf-16g-5947341/',
+             'https://www.morele.net/karta-graficzna-msi-radeon-rx-6900-xt-gaming-z-trio-16gb-gddr6-rx-6900-xt-gaming-z-trio-5947791/',
+             'https://www.morele.net/karta-graficzna-power-color-radeon-rx-6900xt-ultimate-16gb-gddr6-axrx-6900xtu-16gbd6-3dhe-oc-5947694/',
+             'https://www.morele.net/karta-graficzna-sapphire-toxic-radeon-rx-6900-xt-gaming-oc-16gb-gddr6-11308-06-20g-5948002/',
+             'https://www.morele.net/karta-graficzna-sapphire-toxic-radeon-rx-6900-xt-gaming-oc-extreme-edition-11308-08-20g-5947696/',
+             'https://www.morele.net/karta-graficzna-gigabyte-radeon-rx-6900-xt-gaming-oc-16gb-gddr6-gv-r69xtgaming-oc-16gd-5945953/',
+             'https://www.morele.net/karta-graficzna-asrock-radeon-rx-6900-xt-phantom-gaming-d-oc-16gb-gddr6-rx6900xt-pgd-16go-5945915/',
+             'https://www.morele.net/karta-graficzna-asus-tuf-radeon-rx-6900-xt-gaming-oc-16gb-gddr6-tuf-rx6900xt-o16g-gaming-5945886/',
+             'https://www.morele.net/karta-graficzna-power-color-radeon-rx-6900xt-red-devil-16gb-gddr6-axrx-6900xt-16gbd6-3dhe-oc-5947999/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-radeon-rx-6900-xt-master-16gb-gddr6-gv-r69xtaorus-m-16gd-5946682/',
+             '',
+             '',
+             '',
+             '',
+             '',
+             'https://www.morele.net/karta-graficzna-kfa2-geforce-rtx-3060-1-click-oc-12gb-gddr6-36nol7md1vok-5946547/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3060-gaming-oc-12g-gv-n3060gaming-oc-12gd-7912037/',
+             'https://www.morele.net/karta-graficzna-inno3d-geforce-rtx-3060-twin-x2-oc-12gb-gddr6-n30602-12d6x-11902120-5946320/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3060-gaming-x-trio-12gb-gddr6-rtx-3060-gaming-x-trio-12g-5946237/',
+             'https://www.morele.net/karta-graficzna-asus-rog-strix-geforce-rtx-3060-gaming-oc-12gb-gddr6-rog-strix-rtx3060-o12ggaming-7951868/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3060-eagle-12gb-gddr6-gv-n3060eagle-12gd-7912040/',
+             'https://www.morele.net/karta-graficzna-asus-dual-geforce-rtx-3060-gaming-oc-12gb-gddr6-dual-rtx3060-o12g-v2-5948085/',
+             'https://www.morele.net/karta-graficzna-asus-phoenix-geforce-rtx-3060-12gb-gddr6-ph-rtx3060-12g-5947627/',
+             'https://www.morele.net/karta-graficzna-asus-tuf-geforce-rtx-3060-gaming-oc-12gb-gddr6-tuf-rtx3060-o12g-v2-gaming-5948083/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3060-ventus-x2-oc-12gb-gddr6-rtx-3060-ventus-2x-12g-oc-5946240/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3060-vision-oc-12gb-gddr6-gv-n3060vision-oc-12gd-7912038/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3060-elite-12gb-gddr6-gv-n3060aorus-e-12gd-7912036/',
+             'https://www.morele.net/karta-graficzna-asus-tuf-geforce-rtx-3060-gaming-oc-12gb-gddr6-tuf-rtx3060-o12g-gaming-7951867/',
+             'https://www.morele.net/karta-graficzna-zotac-geforce-rtx-3060-amp-white-edition-12gb-gddr6-zt-a30600f-10p-7951869/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3060-elite-12gb-gddr6-gv-n3060aorus-e-12gd-2-0-5948079/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3060-ventus-x3-oc-12gb-gddr6-rtx-3060-ventus-3x-12g-oc-5946239/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3060-vision-oc-12gb-gddr6-gv-n3060vision-oc-12gd-2-0-5948082/',
+             'https://www.morele.net/karta-graficzna-palit-geforce-rtx-3060-stormx-oc-12gb-gddr6-ne63060s19k9-190af-5946396/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3060-gaming-oc-12g-gv-n3060gaming-oc-12gd-2-0-5948081/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3060-eagle-oc-12gb-gddr6-gv-n3060eagle-oc-12gd-2-0-5948080/',
+             '',
+             '',
+             '',
+             '',
+             'https://www.morele.net/karta-graficzna-asus-dual-geforce-rtx-3070-gaming-8gb-gddr6-dual-rtx3070-8g-7244530/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3070-gaming-x-trio-8gb-gddr6-rtx-3070-gaming-x-trio-7244535/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3070-gaming-oc-8gb-gddr6-gv-n3070gaming-oc-8gd-5944660/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3070-master-8gb-gddr6-gv-n3070aorus-m-8gd-7244534/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3070-ventus-3x-oc-8gb-gddr6-rtx-3070-ventus-3x-oc-7244536/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3070-vision-oc-8gb-gddr6-gv-n3070vision-oc-8gd-7244533/',
+             'https://www.morele.net/karta-graficzna-palit-geforce-rtx-3070-gamingpro-8gb-gddr6-ne63070019p2-1041a-5944665/',
+             'https://www.morele.net/karta-graficzna-inno3d-geforce-rtx-3070-ichill-x4-8gb-gddr6-rtx-3070-ichill-x4-5943767/',
+             'https://www.morele.net/karta-graficzna-palit-geforce-rtx-3070-jetstream-8gb-gddr6-ne63070019p2-1040j-5945386/',
+             'https://www.morele.net/karta-graficzna-inno3d-geforce-rtx-3070-twin-x2-oc-8gb-gddr6-rtx-3070-twin-x2-oc-7698848/',
+             'https://www.morele.net/karta-graficzna-gainward-geforce-rtx-3070-phantom-8gb-gddr6-471056224-2171-7698846/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3070-suprim-x-8gb-gddr6-rtx-3070-suprim-x-8g-5945714/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3070-ventus-2x-oc-8gb-gddr6-rtx-3070-ventus-2x-oc-7244537/',
+             'https://www.morele.net/karta-graficzna-asus-tuf-geforce-rtx-3070-gaming-oc-8gb-gddr6-tuf-rtx3070-o8g-gaming-7244531/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3070-eagle-oc-8gb-gddr6-gv-n3070eagle-oc-8gd-5944661/',
+             'https://www.morele.net/karta-graficzna-zotac-geforce-rtx-3070-twin-edge-oc-8gb-gddr6-zt-a30700h-10p-7463163/',
+             'https://www.morele.net/karta-graficzna-kfa2-geforce-rtx-3070-8gb-gddr6-37nsl6md2kok-5946073/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3070-gaming-z-trio-8gb-gddr6-rtx-3070-gaming-z-trio-5947828/',
+             '',
+             '',
+             '',
+             '',
+             '',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3070-ti-suprim-x-8gb-gddr6x-rtx-3070ti-suprim-x-8g-5947971/',
+             'https://www.morele.net/karta-graficzna-inno3d-geforce-rtx-3070-ti-x3-oc-dual-slot-8gb-gddr6x-n307t3-086xx-1820va45-5947969/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3070-ti-master-8gb-gddr6x-gv-n307taorus-m-8gd-5948092/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3070-ti-gaming-x-trio-8gb-gddr6x-rtx-3070-ti-gaming-x-trio-8g-5948060/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3070-ti-ventus-3x-oc-8gb-gddr6x-rtx-3070-ti-ventus-3x-5947972/',
+             'https://www.morele.net/karta-graficzna-palit-geforce-rtx-3070-ti-gamingpro-oc-8gb-gddr6x-ned307t019p2-1046a-5948006/',
+             'https://www.morele.net/karta-graficzna-gainward-geforce-rtx-3070-ti-phoenix-8gb-gddr6x-471056224-2713-5948007/',
+             'https://www.morele.net/karta-graficzna-palit-geforce-rtx-3070-ti-gamerock-oc-8gb-gddr6x-ned307tt19p2-1047g-5948005/',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3080-gaming-oc-10gb-gddr6x-gv-n3080gaming-oc-10gd-5943775/',
+             'https://www.morele.net/karta-graficzna-inno3d-geforce-rtx-3080-ichill-x4-10gb-gddr6x-c30804-106xx-1810va36-5943908/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3080-suprim-x-10gb-gddr6x-rtx-3080-suprim-x-10g-5945417/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3080-xtreme-waterforce-wb-10gb-gddr6x-gv-n3080aorusx-wb-10gd-5945408/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3080-turbo-10gb-gddr6x-gv-n3080turbo-10gd-5946829/',
+             'https://www.morele.net/karta-graficzna-zotac-geforce-rtx-3080-trinity-oc-10gb-gddr6x-zt-a30800j-10p-5946596/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3080-gaming-z-trio-10gb-gddr6-rtx-3080-gaming-z-trio-10g-5947089/',
+             'https://www.morele.net/karta-graficzna-kfa2-geforce-rtx-3080-sg-10gb-gddr6x-38nwm3md99nk-5947897/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3080-gaming-oc-waterforce-10gb-gddr6x-gv-n3080gamingoc-wb-10gd-5947455/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3080-xtreme-10gb-gddr6x-gv-n3080aorus-x-10gd-5944923/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3080-xtreme-waterforce-10gb-gddr6x-gv-n3080aorusx-w-10gd-5945519/',
+             'https://www.morele.net/karta-graficzna-asus-rog-strix-geforce-rtx-3080-gaming-oc-white-10gb-gddr6x-rog-strix-rtx3080-o10g-white-5945885/',
+             'https://www.morele.net/karta-graficzna-zotac-geforce-rtx-3080-amp-holo-10gb-gddr6x-zt-a30800f-10p-5945574/',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3080-ti-gaming-oc-12gb-gddr6x-gv-n308tgaming-oc-12gd-5947950/',
+             'https://www.morele.net/karta-graficzna-palit-geforce-rtx-3080-ti-gamerock-oc-12gb-gddr6x-ned308tt19kb-1020g-5948004/',
+             'https://www.morele.net/karta-graficzna-palit-geforce-rtx-3080-ti-gamerock-12gb-gddr6x-ned308t019kb-1020g-5947952/',
+             'https://www.morele.net/karta-graficzna-palit-geforce-rtx-3080-ti-gamingpro-12gb-gddr6x-ned308t019kb-132aa-5947954/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3080-ti-vision-oc-12gb-gddr6x-gv-n308tvision-oc-12gd-1-0-5947949/',
+             'https://www.morele.net/karta-graficzna-gainward-geforce-rtx-3080-ti-phoenix-12gb-gddr6x-471056224-2379-5947953/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3080-ti-master-12gb-gddr6x-gv-n308taorus-m-12gd-5948094/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3080-ti-gaming-x-trio-12gb-gddr6x-rtx-3080ti-gaming-x-trio-5947955/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3080-ti-suprim-x-12gb-gddr6x-rtx-3080-ti-suprim-x-12g-5947956/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3080-ti-eagle-oc-12gb-gddr6x-gv-n308teagle-12gd-5947951/',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3090-gaming-x-trio-24gb-gddr6x-rtx-3090-gaming-x-trio-24g-5943773/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3090-suprim-x-24gb-gddr6x-5945166/',
+             'https://www.morele.net/karta-graficzna-inno3d-geforce-rtx-3090-ichill-x3-24gb-gddr6x-rtx-3090-ichill-x3-7698847/',
+             'https://www.morele.net/karta-graficzna-gigabyte-geforce-rtx-3090-gaming-oc-24gb-gddr6x-gv-n3090gaming-oc-24gd-5943778/',
+             'https://www.morele.net/karta-graficzna-zotac-geforce-rtx-3090-trinity-oc-24gb-gddr6x-zt-a30900j-10p-5946556/',
+             'https://www.morele.net/karta-graficzna-gigabyte-aorus-geforce-rtx-3090-xtreme-waterforce-24gb-gddr6x-gv-n3090aorusx-w-24gd-5945813/',
+             'https://www.morele.net/karta-graficzna-kfa2-geforce-rtx-3090-hof-limited-edition-24gb-gddr6x-39nxm5md3blk-5947326/',
+             'https://www.morele.net/karta-graficzna-kfa2-geforce-rtx-3090-sg-24gb-gddr6x-39nsm5md1gnk-5947179/',
+             'https://www.morele.net/karta-graficzna-inno3d-geforce-rtx-3090-ichill-x4-24gb-gddr6x-rtx-3090-ichill-x4-5943761/',
+             'https://www.morele.net/karta-graficzna-msi-geforce-rtx-3090-ventus-oc-3x-24gb-gddr6x-rtx-3090-ventus-3x-24g-oc-5943774/',
+             'https://www.morele.net/karta-graficzna-pny-geforce-rtx-3090-xlr8-gaming-revel-edition-24gb-gddr6x-vcg309024tfxppb-5945482/',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '']
     i = 0
     for x in linki:
         try:
@@ -325,9 +510,9 @@ def pobieranieXkom():
              'https://www.x-kom.pl/p/612823-karta-graficzna-amd-gigabyte-radeon-rx-6900-xt-16gb-gddr6.html',
              'https://www.x-kom.pl/p/612564-karta-graficzna-amd-msi-radeon-rx-6900-xt-16gb-gddr6.html',
              'https://www.x-kom.pl/p/612495-karta-graficzna-amd-sapphire-radeon-rx-6900-xt-16gb-gddr6.html',
-             '',
-             '',
-             '',
+             'https://www.x-kom.pl/p/625231-karta-graficzna-amd-msi-radeon-rx-6900-xt-gaming-x-trio-16gb-gddr6.html',
+             'https://www.x-kom.pl/p/649516-karta-graficzna-amd-asrock-radeon-rx-6900-xt-formula-oc-16gb-gddr6.html',
+             'https://www.x-kom.pl/p/656462-karta-graficzna-amd-msi-radeon-rx-6900-xt-gaming-z-trio-16gb-gddr6.html',
              '',
              '',
              'https://www.x-kom.pl/p/631032-karta-graficzna-amd-sapphire-radeon-rx-6800-gaming-oc-16gb-gddr6.html',
@@ -335,8 +520,8 @@ def pobieranieXkom():
              'https://www.x-kom.pl/p/626939-karta-graficzna-amd-gigabyte-radeon-rx-6800-xt-aorus-master-type-c-16gb-gddr6.html',
              'https://www.x-kom.pl/p/609135-karta-graficzna-amd-asus-radeon-rx-6800-xt-tuf-gaming-oc-16gb-gddr6.html',
              'https://www.x-kom.pl/p/607643-karta-graficzna-amd-asrock-radeon-rx-6800-xt-taichi-x-oc-16gb-gddr6.html',
-             '',
-             '',
+             'https://www.x-kom.pl/p/608241-karta-graficzna-amd-msi-radeon-rx-6800-gaming-x-trio-16gb-gddr6.html',
+             'https://www.x-kom.pl/p/609614-karta-graficzna-amd-gigabyte-radeon-rx-6800-gaming-oc-16gb-gddr6.html',
              '',
              '',
              '',
@@ -388,7 +573,57 @@ def pobieranieXkom():
              'https://www.x-kom.pl/p/633459-karta-graficzna-nvidia-palit-geforce-rtx-3060-dual-oc-12gb-gddr6.html',
              'https://www.x-kom.pl/p/633463-karta-graficzna-nvidia-gainward-geforce-rtx-3060-pegasus-12gb-gddr6.html',
              'https://www.x-kom.pl/p/633464-karta-graficzna-nvidia-gainward-geforce-rtx-3060-pegasus-oc-12gb-gddr6.html',
-             'https://www.x-kom.pl/p/633465-karta-graficzna-nvidia-gainward-geforce-rtx-3060-ghost-12gb-gddr6.html']
+             'https://www.x-kom.pl/p/633465-karta-graficzna-nvidia-gainward-geforce-rtx-3060-ghost-12gb-gddr6.html',
+             '',
+             '',
+             '',
+             'https://www.x-kom.pl/p/638180-karta-graficzna-amd-asus-radeon-rx-6700-xt-tuf-gaming-oc-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/638549-karta-graficzna-amd-msi-radeon-rx-6700-xt-mech-2x-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/638550-karta-graficzna-amd-msi-radeon-rx-6700-xt-mech-2x-oc-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/638551-karta-graficzna-amd-msi-radeon-rx-6700-xt-gaming-x-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/638552-karta-graficzna-amd-msi-radeon-rx-6700-xt-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/640049-karta-graficzna-amd-gigabyte-radeon-rx-6700-xt-eagle-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/640189-karta-graficzna-amd-asrock-radeon-rx-6700-xt-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/640756-karta-graficzna-amd-sapphire-radeon-rx-6700-xt-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/640759-karta-graficzna-amd-xfx-radeon-rx-6700-xt-gaming-speedster-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/640761-karta-graficzna-amd-xfx-radeon-rx-6700-xt-ultra-speedster-qick-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/640762-karta-graficzna-amd-xfx-radeon-rx-6700-xt-speedster-merc-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/641503-karta-graficzna-amd-sapphire-radeon-rx-6700-xt-pulse-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/641504-karta-graficzna-amd-sapphire-radeon-rx-6700-xt-nitro-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/641839-karta-graficzna-amd-asus-radeon-rx-6700-xt-12gb-gddr6.html',
+             'https://www.x-kom.pl/p/637730-karta-graficzna-amd-gigabyte-radeon-rx-6700-xt-gaming-oc-12gb-gddr6.html',
+             '',
+             '',
+             '',
+             'https://www.x-kom.pl/p/658146-karta-graficzna-nvidia-gigabyte-geforce-rtx-3080-ti-gaming-oc-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658152-karta-graficzna-nvidia-gigabyte-geforce-rtx-3080-ti-eagle-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/657483-karta-graficzna-nvidia-asus-geforce-rtx3080-ti-rog-strix-gaming-oc-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/655240-karta-graficzna-nvidia-msi-geforce-rtx-3080-ti-suprim-x-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658574-karta-graficzna-nvidia-asus-geforce-rtx-3080-ti-tuf-gaming-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658452-karta-graficzna-nvidia-palit-geforce-rtx-3080-ti-gamerock-oc-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658069-karta-graficzna-nvidia-palit-geforce-rtx-3080-ti-gamingpro-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/657482-karta-graficzna-nvidia-asus-geforce-rtx-3080-ti-tuf-gaming-oc-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/657425-karta-graficzna-nvidia-kfa2-geforce-rtx-3080-ti-sg-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/659626-karta-graficzna-nvidia-evga-geforce-rtx-3080-ti-ftw3-ultra-gaming-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658147-karta-graficzna-nvidia-gigabyte-geforce-rtx-3080-ti-vision-oc-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658068-karta-graficzna-nvidia-gainward-geforce-rtx-3080-ti-phoenix-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658067-karta-graficzna-nvidia-palit-geforce-rtx-3080-ti-gamerock-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/656410-karta-graficzna-nvidia-inno3d-geforce-rtx-3080-ti-ichill-x4-12gb-gddr6x.html',
+             'https://www.x-kom.pl/p/655242-karta-graficzna-nvidia-msi-geforce-rtx-3080-ti-gaming-x-trio-12gb-gddr6x.html',
+             '',
+             '',
+             '',
+             'https://www.x-kom.pl/p/658888-karta-graficzna-nvidia-inno3d-geforce-rtx-3070-ti-x3-oc-8gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658547-karta-graficzna-nvidia-palit-geforce-rtx-3070-ti-gaming-pro-8gb-gddr6x.html',
+             'https://www.x-kom.pl/p/655245-karta-graficzna-nvidia-msi-geforce-rtx-3070-ti-ventus-3x-oc-8gb-gddr6x.html',
+             'https://www.x-kom.pl/p/655243-karta-graficzna-nvidia-msi-geforce-rtx-3070-ti-suprim-x-8gb-gddr6x.html',
+             'https://www.x-kom.pl/p/658552-karta-graficzna-nvidia-palit-geforce-rtx-3070-ti-game-rock-oc-8gb-gddr6x.html',
+             '',
+             '',
+             '',
+             '',
+             '',
+             '']
     i = 0
     for x in linki:
         try:
@@ -827,15 +1062,40 @@ def zapisDanychMedia(odl, p):
     plik.save(p)
     plik.close()
 
+def xkom():
+    try:
+        pobieranieXkom()
+    except:
+        pass
+    try:
+        path1 = 'C:\\Users\\piotr\\OneDrive - T-Mobile Polska S.A\\xkom.xlsx'
+        path2 = 'C:\\Users\\pkaniewski3\\OneDrive - T-Mobile Polska S.A\\xkom.xlsx'
+        try:
+            odl = zapisDatyXkom(path1)
+            if odl != 0:
+                zapisDanychXkom(odl, path1)
+                print(path1)
+                print('zapis xKom1')
+        except:
+            odl = zapisDatyXkom(path2)
+            if odl != 0:
+                zapisDanychXkom(odl, path2)
+                print(path2)
+                print('zapis xKom2')
+        slownik.clear()
+    except Exception as e:
+        print(e.args)
+        print(e.message)
+        pass
 
-def main():
-    path1 = 'C:\\Users\\piotr\\OneDrive - T-Mobile Polska S.A\\morele.xlsx'
-    path2 = 'C:\\Users\\pkaniewski3\\OneDrive - T-Mobile Polska S.A\\morele.xlsx'
+def morele():
     try:
         pobieranieMorele()
     except:
         pass
     try:
+        path1 = 'C:\\Users\\piotr\\OneDrive - T-Mobile Polska S.A\\morele.xlsx'
+        path2 = 'C:\\Users\\pkaniewski3\\OneDrive - T-Mobile Polska S.A\\morele.xlsx'
         try:
             odl = zapisDatyMorele(path1)
             if odl != 0:
@@ -847,35 +1107,18 @@ def main():
                 zapisDanychMorele(odl, path2)
                 print('zapis Morele2')
         slownik.clear()
-        path1 = 'C:\\Users\\piotr\\OneDrive - T-Mobile Polska S.A\\xkom.xlsx'
-        path2 = 'C:\\Users\\pkaniewski3\\OneDrive - T-Mobile Polska S.A\\xkom.xlsx'
-    except:
+    except Exception as e:
+        print(e.args)
+        print(e.message)
         pass
-    try:
-        pobieranieXkom()
-    except:
-        pass
-    try:
-        try:
-            odl = zapisDatyXkom(path1)
-            if odl != 0:
-                zapisDanychXkom(odl, path1)
-                print('zapis xKom1')
-        except:
-            odl = zapisDatyXkom(path2)
-            if odl != 0:
-                zapisDanychXkom(odl, path2)
-                print('zapis xKom2')
-        slownik.clear()
-        path1 = 'C:\\Users\\piotr\\OneDrive - T-Mobile Polska S.A\\rtv.xlsx'
-        path2 = 'C:\\Users\\pkaniewski3\\OneDrive - T-Mobile Polska S.A\\rtv.xlsx'
-    except:
-        pass
+def rtv():
     try:
         pobieranieRTV()
     except:
         pass
     try:
+        path1 = 'C:\\Users\\piotr\\OneDrive - T-Mobile Polska S.A\\rtv.xlsx'
+        path2 = 'C:\\Users\\pkaniewski3\\OneDrive - T-Mobile Polska S.A\\rtv.xlsx'
         try:
             odl = zapisDatyRTV(path1)
             if odl != 0:
@@ -887,15 +1130,19 @@ def main():
                 zapisDanychRTV(odl, path2)
                 print('zapis RTV2')
         slownik.clear()
+    except Exception as e:
+        print(e.args)
+        print(e.message)
+        pass
+
+def media():
+    try:
+            pobieranieMedia()
+    except:
+        pass
+    try:
         path1 = 'C:\\Users\\piotr\\OneDrive - T-Mobile Polska S.A\\mediaexpert.xlsx'
         path2 = 'C:\\Users\\pkaniewski3\\OneDrive - T-Mobile Polska S.A\\mediaexpert.xlsx'
-    except:
-        pass
-    try:
-        pobieranieMedia()
-    except:
-        pass
-    try:
         try:
             odl = zapisDatyMedia(path1)
             if odl != 0:
@@ -906,8 +1153,20 @@ def main():
             if odl != 0:
                 zapisDanychMedia(odl, path2)
                 print('zapis Media2')
-    except:
+    except Exception as e:
+        print(e.args)
+        print(e.message)
         pass
+
+
+def main():
+    morele()
+    xkom()
+    rtv()  
+    media()
+    
+    
+    
 
 
 if __name__ == "__main__":
